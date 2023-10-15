@@ -6,4 +6,4 @@ story link - https://public.tableau.com/authoring/voyagevista_16969184274510/Sto
 
 
 
-drive link - https://drive.google.com/drive/my-drive
+drive link - https://drive.google.com/file/d/1Oo1lPPwykgVnhbwEUmm-9TLnhE32nb_X/view?usp=drivesdk
